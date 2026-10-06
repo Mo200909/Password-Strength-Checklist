@@ -39,6 +39,3 @@ Each check prints one line. Nothing combines them into a score.
 
 Learning project. Not a security control.
 
-## Build note
-
-This is a rewrite of an earlier AI-generated version, which it replaces. Code in this version written by me. AI (Claude) provided the project plan and debugging feedback, including catching that `isupper()` and `islower()` only match all-uppercase or all-lowercase strings.
